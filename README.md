@@ -1,11 +1,18 @@
-Code Refactoring 
+ # Code Refactoring
 
-In this project I refactored existing code to be more accessible for the end user 
+## Description
 
-I was able to replace existing tags with more semantic tags (section, footer, header, nav etc)
+In this project I refactored existing code to make it more accessible to the end user 
+The starter code lacked accessiblity in specific areas such as semantic tags and alt attributes
 
-I added alternative attributes to images and elements within the website to make it more accessible for end users 
 
-I used CSS and class selectors to clean up the nav bar and header for easier access for the end user 
+
+- I replaced existing tags with semantic tags to make them more accessible 
+
+- I applied alt attribute tags to images to make them more accessible to end users using screen readers
+
+- I edited the nav bar to clean it up and make it more end user 
+
+
 
 

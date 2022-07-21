@@ -55,8 +55,8 @@ body {
 #li { 
     display:inline;
     float:right;
-    margin-left: 10px;
-    margin-top: 15px;
+    margin:auto;
+    padding-right: 10px;
 
 }
 
