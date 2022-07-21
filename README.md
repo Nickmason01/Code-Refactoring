@@ -13,7 +13,7 @@ The starter code lacked accessiblity in specific areas such as semantic tags and
 
 - I edited the nav bar to clean it up and make it more end user friendly 
 
-By applying these changes I believe that I have made the website for accessible and easier to navigate for the end user 
+By applying these changes I believe that I have made the website more accessible and easier to navigate for the end user 
 
 
 
